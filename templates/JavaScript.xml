@@ -1,4 +1,9 @@
 <templateSet group="JavaScript">
+  <template name="---" value="console.log('-------------');" description="print ------" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
   <template name="con" value="console.log(" description="console.log" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
